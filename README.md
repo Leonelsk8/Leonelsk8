@@ -2,18 +2,11 @@
 ### Programador Full-Stack, web developer :man_technologist::computer:
 
 ## My skills:
-<img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/Javascript.svg"/><img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/Typescript.svg"/>
-- Typescript
-- HTML
-- CSS
-- React
-- Node js
-- MongoDB
+<img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/Javascript.svg"/><img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/Typescript.svg"/><img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/HTML.svg"/><img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/CSS.svg"/><img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/React.svg"/><img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/Nodejs.svg"/><img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/MongoDB.svg"/><img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/Bootstrap.svg"/><img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/Java.svg"/>
+
 - HeidiSQL
 - Express js
-- Bootstrap
 - c++
-- Java
 - Visual estudio code
 - Git
 - Adobe Photoshop
