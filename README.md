@@ -2,7 +2,7 @@
 ### Programador Full-Stack, web developer :man_technologist::computer:
 
 ## My skills:
-- Javascript
+<img width="100px" src="https://github.com/Leonelsk8/Leonelsk8/blob/main/assets/Javascript.svg"/>
 - Typescript
 - HTML
 - CSS
