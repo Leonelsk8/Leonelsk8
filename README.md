@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hola soy Leonel 👋:cowboy_hat_face:
+### Programador Full-Stack, web developer :man_technologist::computer:
+
+## My skills:
+- Javascript
+- Typescript
+- HTML
+- CSS
+- React
+- Node js
+- MongoDB
+- HeidiSQL
+- Express js
+- Bootstrap
+- c++
+- Java
+- Visual estudio code
+- Git
+- Adobe Photoshop
+- Adobe After Effects
+- Vegas Pro
+- Adobe Lightroom
 
 <!--
 **Leonelsk8/Leonelsk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
